@@ -15,6 +15,7 @@ This project demonstrates how NumPy broadcasting, masking, slicing, and percenti
 5. Practice real-world NumPy data analysis techniques
 
 ⚙️ Technologies Used
+
 Python 3.x
 NumPy
 CSV file handling
@@ -29,7 +30,9 @@ CSV file handling
 6. Automatic service recommendation generation
 
 ▶️ How to Run
+
 cd Smart-Car-Fuel-Efficiency-Analyzer
 python analysis.py
+
 
 
